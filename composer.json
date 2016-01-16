@@ -1,0 +1,22 @@
+{
+    "name": "rohanmashiyava/yii2instagram",
+  "description": "yii 2 Instagram PHP Restful API integration",
+  "type": "yii2-extension",
+    "keywords": ["yii2", "extension", "social", "instagram"],
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+           "name": "Rohan Mashiyava",
+            "email": "rohan@thetatechnolabs.com",
+            "homepage": "http://www.thetatechnolabs.com/"
+        }
+    ],
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "rohanmashiyava\\yii2instagram\\": ""
+    }
+  }
+}
